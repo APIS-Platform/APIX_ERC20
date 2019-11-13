@@ -78,7 +78,7 @@ Supporters having APIS Mainnet coins will have no major changes, but they will r
 APIX Token Management
 -----------------------
 
-As described above, we issued **204,047,854.21** APIX ERC-20 token initially, and locked up tokens which are not yet mined in the APIS Mainnet into the APIX lockup contracts.
+As described above, we issued **204,047,854.21** APIX ERC-20 token `(0xf51EBf9a26DbC02B13F8B3a9110dac47a4d62D78)` initially, and locked up tokens which are not yet mined in the APIS Mainnet into the APIX lockup contracts.
 
 **APIX lockup contract** can receive APIX ERC-20 tokens, and also can transfer stored APIX ERC-20 tokens to the specific address once the condition is met. The contract contains year, unix time, recepient data to timelock APIX ERC-20 tokens.
 
