@@ -2,6 +2,8 @@ APIX Introduction
 ================
 
 This document introduces APIX token contract and token lockup contract structure.
+Overall token contract is based on standard ERC-20 contract by OpenZeppelin and internal logic is never edited.
+(https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC20/ERC20.sol)
 
 
 Index
